@@ -21,9 +21,8 @@ npm install express axios cors
 
 ### Create .env File
 Create a .env file in the Backend directory with the following content:
-.env
-PORT=5000
-API_KEY= ''
+  PORT=5000
+  API_KEY= ''
 
 ### Run the Server
 To run the server, use the following command:
