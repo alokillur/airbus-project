@@ -16,10 +16,10 @@ Follow these steps to set up the backend server:
 ### Initialize npm
 npm init -y
 
-###Install Dependencies
+### Install Dependencies
 npm install express axios cors
 
-###Create .env File
+### Create .env File
 Create a .env file in the Backend directory with the following content:
 .env
 PORT=5000
