@@ -25,7 +25,7 @@ Create a .env file in the Backend directory with the following content:
 PORT=5000
 API_KEY= ''
 
-###Run the Server
+### Run the Server
 To run the server, use the following command:
 node server.js
 
