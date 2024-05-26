@@ -78,7 +78,10 @@ app.get('/api/flightplan/:id', async (req, res) => {
     }
 });
 
-
+app.get('/', (req, res) => {
+    console.log('Root route accessed.');
+    res.send("Server is running.");
+});
 
 app.listen(PORT, () => {
     console.log(`Server is running on port ${PORT}`);
