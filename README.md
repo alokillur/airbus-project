@@ -12,47 +12,47 @@ This will improve safety, efficiency, and reliability. Additionally, a health me
 
 Follow these steps to set up the backend server:
 
-1. *Navigate to Backend Directory:*
-    sh
+1. **Navigate to Backend Directory:**
+    ```sh
     cd Backend
-    
+    ```
 
-2. *Initialize npm:*
-    sh
+2. **Initialize npm:**
+    ```sh
     npm init -y
-    
+    ```
 
-3. *Install Dependencies:*
-    sh
+3. **Install Dependencies:**
+    ```sh
     npm install express axios cors
-    
+    ```
 
-4. *Create .env File:*
-    Create a .env file in the Backend directory with the following content:
-    
+4. **Create .env File:**
+    Create a `.env` file in the Backend directory with the following content:
+    ```
     PORT=5000
     API_KEY=NVsSmS9E1xoGFgsBdn0qkOE6d5CbDKRnCnjI4znu
-    
+    ```
 
-5. *Run the Server:*
+5. **Run the Server:**
     To run the server, use the following command:
-    sh
+    ```sh
     node server.js
-    
+    ```
 
 ## Frontend Setup
 
 Follow these steps to set up the frontend:
 
-1. *Navigate to Frontend Directory:*
-    sh
+1. **Navigate to Frontend Directory:**
+    ```sh
     cd Frontend
-    
+    ```
 
-2. *Start the Development Server:*
-    sh
+2. **Start the Development Server:**
+    ```sh
     npm start
-    
+    ```
 
 ## Project Documentation
 
