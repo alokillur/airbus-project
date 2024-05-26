@@ -1,4 +1,4 @@
-# Flight Navigation System
+# Enhancing Flight Navigation Mechanism for Optimal Route Planning and Risk Mitigation
 
 Flight navigation systems often face challenges such as adverse weather, unavailable GPS signals, and environmental factors, leading to increased risks and inefficiencies. This project aims to enhance flight navigation by developing a software solution that integrates real-time data from weather APIs, aviation databases, and flight sensors. Using advanced algorithms, the system will:
 
