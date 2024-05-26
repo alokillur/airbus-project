@@ -49,7 +49,12 @@ Follow these steps to set up the frontend:
     cd Frontend
     ```
 
-2. **Start the Development Server:**
+2. **Install Dependencies:**
+    ```sh
+    npm install
+    ```
+
+3. **Start the Development Server:**
     ```sh
     npm start
     ```
