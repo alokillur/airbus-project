@@ -6,7 +6,7 @@ Flight navigation systems often face challenges such as adverse weather, unavail
 - Assess risks
 - Suggest alternative routes
 
-This will improve safety, efficiency, and reliability. Additionally, a health metrics tracker will monitor the aircraft's operational status, enabling proactive risk mitigation. The solution features a user-friendly dashboard for pilots and control centers, displaying routes, risks, and real-time updates. Scalability is ensured through cloud infrastructure, supporting increased data volumes and users. Key impact metrics include reduced flight incidents, improved fuel consumption, reduced delays, and positive user feedback.
+This will improve safety, efficiency, and reliability. Additionally, a health metrics tracker will monitor the aircraft's operational status, enabling proactive risk mitigation. The solution features a user-friendly dashboard for pilots and control centers, displaying routes, risks, and real-time updates. Scalability is ensured through cloud infrastructure, supporting increased data volumes and users. Key impact metrics include reduced flight incidents, improved fuel consumption, reduced delays, and positive user feedback it also consist of Chat-Bot which will help the Pilot to assist in taking decission.
 
 ## Backend Setup
 
